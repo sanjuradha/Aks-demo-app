@@ -1,5 +1,5 @@
 trigger:
-- main  # Runs when code is pushed to the 'main' branch
+- master  # Runs when code is pushed to the 'main' branch
 
 pool:
   vmImage: 'ubuntu-latest'
